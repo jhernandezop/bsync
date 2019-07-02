@@ -1,0 +1,22 @@
+{
+    "todos": [
+      {
+        "title": "Caso1",
+        "responsible": "mark",
+        "description": "lorem impsum",
+        "priority": "Baja"
+      },
+      {
+        "title": "Caso2",
+        "responsible": "ryan",
+        "description": "lorem impsum",
+        "priority": "Media"
+      },
+      {
+        "title": "Caso3",
+        "responsible": "joseph",
+        "description": "lorem impsum",
+        "priority": "Alta"
+      }
+    ]
+  }
